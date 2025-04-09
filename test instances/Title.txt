@@ -1,0 +1,1 @@
+FlightID	airport	plannedWheelStopTime	actualTime	actualWheelStopTime	runwayID	runwayDirection	wayPointID	plannedTimezone	plannedpos	runwaymode
